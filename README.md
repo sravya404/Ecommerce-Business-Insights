@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes e-commerce product sales data to uncover business insights related to sales performance, product popularity, customer ratings, discounts, and geographic trends.
+This project analyzes e-commerce product sales data to uncover business insights related to sales performance, product popularity, customer ratings, discounts,
 
 The analysis was performed using **Python (Pandas, Plotly)** and the findings were presented through an **interactive Power BI dashboard**.
 
@@ -24,23 +24,6 @@ Raw Data → Data Cleaning → Analysis → Visualization → Business Insights
 
 ---
 
-## 📂 Dataset Features
-
-The dataset contains:
-
-- Product ID
-- Product Name
-- Category
-- Price
-- Rating
-- Number of Reviews
-- Stock Quantity
-- Discount
-- Sales
-- Date Added
-- City
-
----
 
 ## 🎯 Business Questions Answered
 
@@ -133,11 +116,6 @@ The Power BI dashboard was created using the cleaned dataset and includes:
 - Average product rating remained above 3.0.
 - Highly rated products showed stronger sales performance.
 
-### Geographic Analysis
-
-- Certain cities consistently generated higher sales than others.
-- Regional performance differences indicate potential market opportunities.
-
 ### Product Analysis
 
 - Top-performing products accounted for a significant share of revenue.
@@ -153,37 +131,7 @@ The Power BI dashboard was created using the cleaned dataset and includes:
 - Monitor discount strategies to maximize profitability.
 - Continuously track sales trends to identify seasonal opportunities.
 
----
 
-## 📷 Dashboard Preview
-
-![Dashboard](images/dashboard.png)
-
----
-
-## 📁 Project Structure
-
-```
-Ecommerce-Sales-and-Product-Performance-Analysis
-│
-├── data
-│   └── ecommerce.csv
-│
-├── notebooks
-│   └── ecommerce_analysis.ipynb
-│
-├── powerbi_dashboard
-│   └── Ecommerce_Dashboard.pbix
-│
-├── images
-│   ├── dashboard.png
-│   ├── sales_by_category.png
-│   ├── sales_by_city.png
-│   ├── top_products.png
-│   └── monthly_trend.png
-│
-└── README.md
-```
 
 ---
 
@@ -203,6 +151,4 @@ Ecommerce-Sales-and-Product-Performance-Analysis
 
 
 
-Sravya
 
-Aspiring Data Analyst | Python | SQL | Power BI | Excel
